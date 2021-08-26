@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Habibullah339
 - 👀 I’m interested in Flutter and web applications
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Flutter.
+- 📫 You can Reach me...on GitHub🤣🤣
 
 <!---
 Habibullah339/Habibullah339 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
