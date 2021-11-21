@@ -2,8 +2,8 @@
 
 
 
-
-<img  alt="My Name is Habibullah and I like Flutter" src="https://github.com/Habibullah339/Habibullah339/blob/main/ezgif.com-gif-maker.gif" />
+<p align="center">
+<img  alt="My Name is Habibullah and I like Flutter" src="https://github.com/Habibullah339/Habibullah339/blob/main/ezgif.com-gif-maker.gif" /></p>
  
 - 👋 Hi, I’m @Habibullah339
 - 👀 Interested in Flutter and web applications
