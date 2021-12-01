@@ -15,7 +15,7 @@
 <table width="100%">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
+<a href="https://shifahub.ga">
 <strong>Visit my personal website </strong>
 <br />
 <br />
@@ -44,7 +44,7 @@
 </td>
 
 <td align="center">
-<a href="https://github.com/Habibullah339/Habibullah339/blob/main/gitgif.gif">
+<a href="https://raw.githubusercontent.com/Habibullah339/Habibullah339/main/gitgif.gif">
 <strong>Listen to cool music</strong>
 <br />
 
