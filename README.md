@@ -101,6 +101,18 @@ My Socials:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![FireBase](https://img.shields.io/badge/-FireBase-black?logo=firebase&style=social)&nbsp;&nbsp;
 
+##  ⚙️ Analytics
+<p align="center">
+<a href="https://github.com/habibullah339">
+  <div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=habibullah339&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </div>
+  <div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=habibullah339&layout=compact&langs_count=8&theme=algolia"/>
+  </div>
+</a>
+</p>
+
 
 
 <!---
