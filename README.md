@@ -70,8 +70,7 @@
 - Currently Working as Front End Developer
 #
 - Looking For Opportunities Related To Flutter.
-## 🛠 Skills
-Dart, Flutter, Android, Hybrib Applications.
+
 
 ## Support
 
@@ -83,7 +82,7 @@ My Socials:
 
 [![Gmail Badge](https://img.shields.io/badge/-Habibullah9689@engineer.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Habibullah9689@engineer.com)](Habibullah9689@engineer.com)
 
-## Languages and Tools:
+## 🛠 Languages and Tools:
 
 ![Flutter](https://img.shields.io/badge/-Flutter-black?logo=flutter&style=social)&nbsp;&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-black?logo=dart&style=social)&nbsp;&nbsp;
