@@ -87,17 +87,12 @@ My Socials:
 
 ![Flutter](https://img.shields.io/badge/-Flutter-black?logo=flutter&style=social)&nbsp;&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-black?logo=dart&style=social)&nbsp;&nbsp;
-
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 ![IOS](https://img.shields.io/badge/-IOS-black?logo=ios&style=social)&nbsp;&nbsp;
-
-
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![FireBase](https://img.shields.io/badge/-FireBase-black?logo=firebase&style=social)&nbsp;&nbsp;
 
