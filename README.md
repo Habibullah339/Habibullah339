@@ -28,7 +28,8 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 </td>
 <td align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/new?template=Guestbook_entry.md">
+<!--<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/new?template=Guestbook_entry.md"> -->
+ <a href="https://habibullah339.github.io/Habib_profile/">
 <strong>Sign my guest book</strong>
 <br />
 
@@ -44,7 +45,8 @@
 </td>
 
 <td align="center">
-<a href="https://raw.githubusercontent.com/Habibullah339/Habibullah339/main/gitgif.gif">
+
+ <a href="https://habibullah339.github.io/Habib_profile/">
 <strong>Listen to cool music</strong>
 <br />
 
