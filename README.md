@@ -96,6 +96,7 @@ My Socials:
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![FireBase](https://img.shields.io/badge/-FireBase-black?logo=firebase&style=social)&nbsp;&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-black?logo=trello&style=social)&nbsp;&nbsp;
 
 ##  ⚙️ Analytics
 <p align="center">
