@@ -4,7 +4,7 @@
 
 <p align="center">
 <!--<img  alt="My Name is Habibullah and I like Flutter" src="https://github.com/Habibullah339/Habibullah339/blob/main/ezgif.com-gif-maker.gif" /></p>-->
-<img  alt="My Name is Habibullah and I like Flutter" src="https://github.com/Habibullah339/Habibullah339/blob/main/My%20Name%20is%20Habibullah%20and%20I%20am%20Interested%20in%20(1).gif" /></p>
+<img  alt="" src="https://github.com/Habibullah339/Habibullah339/blob/main/My%20Name%20is%20Habibullah%20and%20I%20am%20Interested%20in%20(1).gif" /></p>
 
  
 - 👋 Hi, I’m @Habibullah339
