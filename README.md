@@ -81,7 +81,6 @@
 My Socials:
 <br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-habibullah339-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/habibullah339/)](https://www.linkedin.com/in/habibullah339/)
-[![Instagram Badge](https://img.shields.io/badge/-hkflutter-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/hkflutter/)](https://instagram.com/hkflutter)
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Habibullah9689@engineer.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Habibullah9689@engineer.com)](Habibullah9689@engineer.com)
