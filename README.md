@@ -8,11 +8,9 @@
 
  
 - 👋 Hi, I’m @Habibullah339
-- 👀 Interested in Flutter and web applications
-- 🌱 Currently learning Flutter
+- 👀 Interested in Cloud, Devops,Android, Web
+- 🌱 Currently learning Devops tools like, Linux, Git, Docker etc.
 - 💞️ I’m looking to collaborate on Flutter.
-- 📫 You can Reach me...on GitHub🤣🤣
-- ⚡️ My fun facts are memes..😎😎😋
   <!---------------------------------------------------------------------------- Social Start ---------------------------------------------------------------------------------->
 <table width="100%">
 <tr>
