@@ -15,7 +15,7 @@
 <table width="100%">
 <tr>
 <td align="center">
-<a href="https://habibullah339.github.io/Habib_profile/">
+<a href="#">
 <strong>Visit my website </strong>
 <br />
 <br />
@@ -29,7 +29,7 @@
 </td>
 <td align="center">
 <!--<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/new?template=Guestbook_entry.md"> -->
- <a href="https://habibullah339.github.io/Habib_profile/">
+ <a href="#">
 <strong>Sign my guest book</strong>
 <br />
 
@@ -65,13 +65,10 @@
 <!---------------------------------------------------------------------------- Social End ---------------------------------------------------------------------------------->
 
 ## 🚀 About Me
-- I'm a flutter Developer
 #
-- Student Of Software Engineering.
+- Fresh Graduate Software Engineer
 #
-- Currently Working as Front End Developer
-#
-- Looking For Opportunities Related To Flutter.
+- Looking For Opportunities Related To Cloud, Linux, Devops.
 
 
 ## Support
