@@ -1,6 +1,6 @@
 ## Hay Happy to See You <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+i+am+Habibullah;Interested+in+android)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+i+am+Habibullah;Interested+in+cloud+devops+linux)](https://git.io/typing-svg)
 
 <p align="center">
 <!--<img  alt="My Name is Habibullah and I like Flutter" src="https://github.com/Habibullah339/Habibullah339/blob/main/ezgif.com-gif-maker.gif" /></p>-->
